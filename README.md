@@ -1,33 +1,17 @@
-20200103
-1.优化sdk内存管理
-2.修复搜索和播放车牌号过长车辆存储服务器视频
+Bug Fixes
 
-20191223
-1.修改旧版视频yuv格式转rgb格式可能会出现的色差问题.
-2.修改旧版视频回放,拖动进度条需要加载长时间才能加载成功.
+1.Fixed search and play for the vehicle storage server video with long license plate numbers.
 
-20191211  
-1.实时视频增加设置视频流接口
+Added Features
 
-20190708  
-1.集成最新TTXSDK,完善接口说明文档
-2.缩减sdk的大小
-
-20200103
-1. Optimize SDK memory management
-2.Fix search and play video of vehicle license server with long license plate number
-
-20191223
-1.Modify the chromatic aberration problem that may occur in the old version of video from yuv format to rgb format.
-2.Modify the old version of video playback, dragging the progress bar takes a long time to load successfully.
-
-20191211  
-1. Add video stream interface for real-time video
-
-20190708
-1. Integrate the latest TTXSDK, complete the interface documentation
-2.Reduce the size of sdk
-
-
-
-
+1. Optimized the SDK memory management.
+2. Added the color difference problem that may occur in the old video yuv format to rgb format.
+3. Added the old version of video playback, dragging the progress bar takes a long time to load successfully.
+4. Increased the real-time video streaming interface.
+5. Integrated the latest TTXSDK and improve the interface documentation.
+6. Reduced the size of the SDK.
+7. Optimized SDK memory management.
+8. Modified the chromatic aberration problem that may occur in the old version of video from yuv format to rgb format.
+9. Modified the old version of video playback, dragging the progress bar takes a long time to load successfully.
+10. Added the video stream interface for real-time video.
+11. Integrate the latest TTXSDK, complete the interface documentation.
